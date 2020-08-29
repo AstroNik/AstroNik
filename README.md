@@ -20,6 +20,7 @@
 <img align="left" alt="css3" width="38px" src="https://img.icons8.com/color/240/000000/css3.png" />
 <img align="left" alt="javscript" width="38px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img align="left" alt="react" width="38px" src="https://img.icons8.com/color/240/000000/react-native.png"/>
+<img align="left" alt="redux" width="38px" src="https://img.icons8.com/color/240/000000/redux.png"/>
 <img align="left" alt="mongodb" width="38px" src="https://img.icons8.com/color/240/000000/mongodb.png" />
 <img align="left" alt="golang" width="38px" src="https://img.icons8.com/color/240/000000/golang.png" />
 <img align="left" alt="kubernetes" width="38px" src="https://img.icons8.com/color/240/000000/kubernetes.png" />
