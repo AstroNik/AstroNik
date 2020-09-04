@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I enjoy programming for fun and working out <img width="22px" src="https://img.icons8.com/color/48/000000/triceps.png" />
 
 ### Connect with me:
-(website under development)
 [<img align="left" alt="nikhilkapadia.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="astronik" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="astronik" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />][linkedin] 
