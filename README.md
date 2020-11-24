@@ -34,7 +34,7 @@
 
 <br />
 
-PS. My private repos contain private keys hence why they're not public (they're also for a school capstone project)
+I'm aware some of my repos contain private keys. It was for a group project.
 
 
 
