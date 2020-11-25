@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikhil - aka AstroNik [website] 👋
 
-## I'm an aspiring Full-Stack Software Developer
+## I'm an aspiring Developer
 - 🔭 I’m currently working on many projects to build up my portfolio
 - 🌱 I’m currently learning Tensorflow 
 - 👯 I’m looking to collaborate with other creators
